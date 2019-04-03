@@ -1,0 +1,15 @@
+using UnityEngine;
+using System.Collections;
+
+public class CoolClass : MonoBehaviour {
+
+public float RigidBody rb;
+
+  void Start () {
+  
+  }
+  
+    void FixedUpdate () {
+    Debug.Log("Whats up guys Ali A here");
+     }
+}
